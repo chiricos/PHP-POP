@@ -87,6 +87,11 @@
     Los nombre de espacio nos ayudan a tener que colocar "sub-nombres " a nuestros archivos, clases o funciones. Sin duda alguna es una gran ventaja para todos los que programan con la POO.
     <br>
 
+    <b>Proyecto:</b>
+    Vamos a desarrollar una simple CRUD el cual va a administrar los estudiantes de un salón, este estará dividido en secciones. Además cada estudiante va a contener hasta su imagen.
+    <br>
+
+
 
 </section>
 </body>
